@@ -1,0 +1,57 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\cgeor\\Documents\\PM_3D_MODELS\\src\\build\\sketch\\cnc_plotter.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\cgeor\\Documents\\PM_3D_MODELS\\src\\build\\sketch\\cnc_plotter.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
